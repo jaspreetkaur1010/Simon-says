@@ -1,0 +1,32 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(142, 118, 90);
+    text-align: center;
+    color: rgb(82, 58, 58);
+}
+.btn{
+    height: 200px;
+    width:200px;
+    border-radius: 2rem;
+    background-color: rgb(58, 82, 82);
+    margin:1rem;
+}
+.btn-con{
+    display: flex;
+    justify-content:center;
+}
+.red{
+    background-color: rgb(246, 167, 167);
+}
+.green{
+    background-color: rgb(196, 246, 167);
+}
+.blue{
+    background-color: rgb(172, 167, 246);
+}
+.yellow{
+    background-color: rgb(246, 233, 167);
+}
+.flash{
+    background-color:  rgb(53, 41, 33);
+}
